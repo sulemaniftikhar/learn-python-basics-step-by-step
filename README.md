@@ -136,3 +136,15 @@ This **Python topics index** will guide you through key programming concepts tha
 - ⚡ Practical examples and exercises to reinforce learning.
 
 ---
+
+## 📚 **Further Learning Resources**
+
+For more information on Python, check out the official documentation:  
+[![Python Logo](https://www.python.org/static/community_logos/python-logo.png)](https://docs.python.org/3/)  
+[**Python Official Documentation**](https://docs.python.org/3/)
+
+Explore free Python tutorials at:  
+[![Real Python Logo](https://realpython.com/favicon.ico)](https://realpython.com/)  
+[**Real Python**](https://realpython.com/)
+
+---
