@@ -4,7 +4,7 @@ Welcome to the **Comprehensive Python Learning Index**! This guide will help you
 
 ---
 
-## 🐍 **1. [Introduction to Python Programming](./01-intro)**
+## 🐍 **1. [Introduction to Python Programming](./01-intro.md)**
 
 Kickstart your Python journey by understanding what Python is and how to set it up.
 
